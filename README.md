@@ -17,7 +17,7 @@
 <!---------------------------------------------------------- About Me---------------------------------------------------->
 <div align="center">
     <h2>About Me</h2>
-    <p>I am Asmit Prakash, currently pursuing my Undergrad majoring in Computer Science.</p>
+    <p>I am Asmit Prakash, currently pursuing my Undergrad majoring in Computer Science Engineering.</p>
     <p>Besides programming, I like photography and networking with folks in the Developer community.</p>
 </div>
 
