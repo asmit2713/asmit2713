@@ -17,10 +17,12 @@
 <!---------------------------------------------------------- About Me---------------------------------------------------->
 <div align="center">
     <h2>About Me</h2>
-    <p>I am an enthusiastic undergraduate student majoring in Computer science engineering, with a strong focus on software development and technology. My recent internship at Bharat Electronics Limited, a leading organization under the Ministry of Defence, allowed me to gain in-depth experience in Geographic Information Systems (GIS). During this time, I actively contributed to complex projects, enhancing my skills in data analysis, software applications, and problem-solving.
-Known for my ability to quickly learn and adapt to new technologies, I thrive in dynamic and challenging environments. I am passionate about leveraging technology to solve real-world problems and am committed to continuous learning and growth. My strong technical foundation, coupled with my proactive approach and enthusiasm for innovation, positions me to make valuable contributions as a software engineering intern. I am eager to bring my skills and dedication to your team, where I can further develop my abilities and contribute to impactful and cutting-edge projects.</p>
-    <p>I am Asmit Prakash, currently pursuing my Undergrad majoring in Computer Science Engineering.</p>
-    <p>Besides programming, I like photography and networking with folks in the Developer community.</p>
+    <p>I am an enthusiastic undergraduate student majoring in Computer science engineering, with a strong focus on software development and technology. My recent internship at Bharat Electronics 
+       Limited, a leading organization under the Ministry of Defence, allowed me to gain in-depth experience in Geographic Information Systems (GIS). During this time, I actively contributed to 
+       complex projects, enhancing my skills in data analysis, software applications, and problem-solving.Known for my ability to quickly learn and adapt to new technologies, I thrive in dynamic 
+       and challenging environments. I am passionate about leveraging technology to solve real-world problems and am committed to continuous learning and growth. My strong technical foundation, 
+       coupled with my proactive approach and enthusiasm for innovation, positions me to make valuable contributions as a software engineering intern. I am eager to bring my skills and dedication 
+       to your team, where I can further develop my abilities and contribute to impactful and cutting-edge projects.</p>
 </div>
 
 <!-------------------------------------------------------Tools and Technologies----------------------------------------->
